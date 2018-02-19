@@ -13,7 +13,7 @@
       "interactionTypeName": "eats"
     }
   ],
-  "resource": {
+  "resources": {
     "zip:http://binarystore.wiley.com/store/10.1002/ecy.1818/asset/supinfo/ecy1818-sup-0002-DataS1.zip?v=1&s=a048d36ea6ae68f2afd0f1491f6b4deacbadcda8!/ATLANTIC_frugivory.csv": "ATLANTIC_frugivory.csv"
   }
 
