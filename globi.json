@@ -1,0 +1,20 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { "url": "zip:http://binarystore.wiley.com/store/10.1002/ecy.1818/asset/supinfo/ecy1818-sup-0002-DataS1.zip?v=1&s=a048d36ea6ae68f2afd0f1491f6b4deacbadcda8!/ATLANTIC_frugivory.csv",
+      "referenceDoi": "10.1002/ecy.1818",
+      "dcterms:bibliographicCitation": "Bello, C., Galetti, M., Montan, D., Pizo, M. A., Mariguela, T. C., Culot, L., Bufalo, F., Labecca, F., Pedrosa, F., Constantini, R., Emer, C., Silva, W. R., da Silva, F. R., Ovaskainen, O. and Jordano, P. (2017), Atlantic frugivory: a plant–frugivore interaction data set for the Atlantic Forest. Ecology, 98: 1729. doi:10.1002/ecy.1818",
+      "tableSchema": "schema.json",
+      "delimiter": ",",
+      "null": ["NA"],
+      "headerRowCount": 1,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
+      "interactionTypeName": "eats"
+    }
+  ],
+  "resource": {
+    "zip:http://binarystore.wiley.com/store/10.1002/ecy.1818/asset/supinfo/ecy1818-sup-0002-DataS1.zip?v=1&s=a048d36ea6ae68f2afd0f1491f6b4deacbadcda8!/ATLANTIC_frugivory.csv": "ATLANTIC_frugivory.csv"
+  }
+
+}

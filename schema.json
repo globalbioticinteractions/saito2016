@@ -1,0 +1,184 @@
+{
+  "columns": [
+    {
+      "name": "ID",
+      "titles": "ID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "Frugivore_Species",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Plant_Species",
+      "datatype": "string"
+    },
+    {
+      "name": "Type of Interaction",
+      "titles": "Type of Interaction",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonFamily",
+      "titles": "Plant_family",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonGenus",
+      "titles": "Plant_genus",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonSpecificEpithet",
+      "titles": "Plant_specific.epiteth",
+      "datatype": "string"
+    },
+    {
+      "name": "Plant_distribution",
+      "titles": "Plant_distribution",
+      "datatype": "string"
+    },
+    {
+      "name": "Plant_origin",
+      "titles": "Plant_origin",
+      "datatype": "string"
+    },
+    {
+      "name": "Plant_Form",
+      "titles": "Plant_Form",
+      "datatype": "string"
+    },
+    {
+      "name": "fruit_diameter",
+      "titles": "fruit_diameter",
+      "datatype": "string"
+    },
+    {
+      "name": "fruit_length",
+      "titles": "fruit_length",
+      "datatype": "string"
+    },
+    {
+      "name": "seed_diameter",
+      "titles": "seed_diameter",
+      "datatype": "string"
+    },
+    {
+      "name": "seed_length",
+      "titles": "seed_length",
+      "datatype": "string"
+    },
+    {
+      "name": "Fruit_color",
+      "titles": "Fruit_color",
+      "datatype": "string"
+    },
+    {
+      "name": "Lipid_Score",
+      "titles": "Lipid_Score",
+      "datatype": "string"
+    },
+    {
+      "name": "Plants_IUCN",
+      "titles": "Plants_IUCN",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Class",
+      "titles": "Frug_Class",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Order",
+      "titles": "Frug_Order",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Family",
+      "titles": "Frug_Family",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Genus",
+      "titles": "Frug_Genus",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Epitetus",
+      "titles": "Frug_Epitetus",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Group",
+      "titles": "Frug_Group",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Body_Mass",
+      "titles": "Frug_Body_Mass",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Mean_Gape_Size",
+      "titles": "Frug_Mean_Gape_Size",
+      "datatype": "string"
+    },
+    {
+      "name": "Frugivory_score",
+      "titles": "Frugivory_score",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Migration_status",
+      "titles": "Frug_Migration_status",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_IUCN",
+      "titles": "Frug_IUCN",
+      "datatype": "string"
+    },
+    {
+      "name": "Frug_Population_Trend",
+      "titles": "Frug_Population_Trend",
+      "datatype": "string"
+    },
+    {
+      "name": "Study_Location",
+      "titles": "Study_Location",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLatitude",
+      "titles": "Latitude",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLongitude",
+      "titles": "Longitude",
+      "datatype": "string"
+    },
+    {
+      "name": "Precision",
+      "titles": "Precision",
+      "datatype": "string"
+    },
+    {
+      "name": "Study reference",
+      "titles": "Study reference",
+      "datatype": "string"
+    },
+    {
+      "name": "Doi/Link",
+      "titles": "Doi/Link",
+      "datatype": "string"
+    },
+    {
+      "name": "Study_Method",
+      "titles": "Study_Method",
+      "datatype": "string"
+    }
+  ]
+}
