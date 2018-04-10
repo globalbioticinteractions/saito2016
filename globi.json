@@ -9,7 +9,7 @@
       "delimiter": "\t",
       "null": ["NA"],
       "headerRowCount": 1,
-      "sourceLifeStageName": "larva",
+      "sourceLifeStageName": "larval stage",
       "sourceLifeStageId": "UBERON:0000069",
       "localityName": "Japan",
       "localityId": "GEONAMES:1861060",
