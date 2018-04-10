@@ -2,19 +2,22 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "zip:http://binarystore.wiley.com/store/10.1002/ecy.1818/asset/supinfo/ecy1818-sup-0002-DataS1.zip?v=1&s=a048d36ea6ae68f2afd0f1491f6b4deacbadcda8!/ATLANTIC_frugivory.csv",
-      "referenceDoi": "10.1002/ecy.1818",
-      "dcterms:bibliographicCitation": "Bello, C., Galetti, M., Montan, D., Pizo, M. A., Mariguela, T. C., Culot, L., Bufalo, F., Labecca, F., Pedrosa, F., Constantini, R., Emer, C., Silva, W. R., da Silva, F. R., Ovaskainen, O. and Jordano, P. (2017), Atlantic frugivory: a plant–frugivore interaction data set for the Atlantic Forest. Ecology, 98: 1729. doi:10.1002/ecy.1818",
+    { "url": "http://hostbj.lepumus.net/home/hostdb_ver_1_0.txt",
+      "referenceDoi": "10.1007/s11284-016-1365-8",
+      "dcterms:bibliographicCitation": "Saito MU, Jinbo U, Yago M, Kurashima O, Ito M (2016) Larval host records of butterflies in Japan. Ecological Research 31: 491. doi:10.1007/s11284-016-1365-8",
       "tableSchema": "schema.json",
-      "delimiter": ",",
+      "delimiter": "\t",
       "null": ["NA"],
       "headerRowCount": 1,
+      "sourceLifeStageName": "larva",
+      "sourceLifeStageId": "UBERON:0000069",
+      "localityName": "Japan",
+      "localityId": "GEONAMES:1861060",
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
       "interactionTypeName": "eats"
     }
   ],
   "resources": {
-    "zip:http://binarystore.wiley.com/store/10.1002/ecy.1818/asset/supinfo/ecy1818-sup-0002-DataS1.zip?v=1&s=a048d36ea6ae68f2afd0f1491f6b4deacbadcda8!/ATLANTIC_frugivory.csv": "ATLANTIC_frugivory.csv"
   }
 
 }
